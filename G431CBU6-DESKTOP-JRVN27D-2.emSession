@@ -1,0 +1,107 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6-esc" sizeText="" addressText="0x20000b80"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6-esc" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6-esc" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="G431CBU6-esc" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="G431CBU6-esc"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;control"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;foc"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;RTT"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;Script Files"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;Source Files"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;STM32G4XX_LL_Drivers"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;STM32G4XX_LL_Drivers;Inc"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;STM32G4XX_LL_Drivers;Src"/>
+  <ProjectSessionItem path="G431CBU6-esc;G431CBU6-esc;System Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal;TIM1/CR1;TIM1/CR2;TIM1/SMCR;TIM1/DIER;TIM1/SR;TIM1/EGR;TIM1/CCMR1_Output;TIM1/CCMR1_Input;TIM1/CCMR2_Output;TIM1/CCMR2_Input;TIM1/CCER;TIM1/CNT;TIM1/PSC;TIM1/ARR;TIM1/RCR;TIM1/CCR1;TIM1/CCR2;TIM1/CCR3;TIM1/CCR4;TIM1/BDTR;TIM1/CCR5;TIM1/CCR6;TIM1/CCMR3_Output;TIM1/DTR2;TIM1/ECR;TIM1/TISEL;TIM1/AF1;TIM1/AF2;TIM1/DCR;TIM1/DMAR;TIM2/CR1;TIM2/CR2;TIM2/SMCR;TIM2/DIER;TIM2/SR;TIM2/EGR;TIM2/CCMR1_Output;TIM2/CCMR1_Input;TIM2/CCMR2_Output;TIM2/CCMR2_Input;TIM2/CCER;TIM2/CNT;TIM2/PSC;TIM2/ARR;TIM2/RCR;TIM2/CCR1;TIM2/CCR2;TIM2/CCR3;TIM2/CCR4;TIM2/BDTR;TIM2/CCR5;TIM2/CCR6;TIM2/CCMR3_Output;TIM2/DTR2;TIM2/ECR;TIM2/TISEL;TIM2/AF1;TIM2/AF2;TIM2/DCR;TIM2/DMAR;ADC2/ISR;ADC2/IER;ADC2/CR;ADC2/CFGR;ADC2/CFGR2;ADC2/SMPR1;ADC2/SMPR2;ADC2/TR1;ADC2/TR2;ADC2/TR3;ADC2/SQR1;ADC2/SQR2;ADC2/SQR3;ADC2/SQR4;ADC2/DR;ADC2/JSQR;ADC2/OFR1;ADC2/OFR2;ADC2/OFR3;ADC2/OFR4;ADC2/JDR1;ADC2/JDR2;ADC2/JDR3;ADC2/JDR4;ADC2/AWD2CR;ADC2/AWD3CR;ADC2/DIFSEL;ADC2/CALFACT;ADC2/GCOMP;OPAMP/OPAMP1_CSR;OPAMP/OPAMP2_CSR;OPAMP/OPAMP3_CSR;OPAMP/OPAMP1_TCMR;OPAMP/OPAMP2_TCMR;OPAMP/OPAMP3_TCMR;ADC1/ISR;ADC1/IER;ADC1/CR;ADC1/CFGR;ADC1/CFGR2;ADC1/SMPR1;ADC1/SMPR2;ADC1/TR1;ADC1/TR2;ADC1/TR3;ADC1/SQR1;ADC1/SQR2;ADC1/SQR3;ADC1/SQR4;ADC1/DR;ADC1/JSQR;ADC1/OFR1;ADC1/OFR2;ADC1/OFR3;ADC1/OFR4;ADC1/JDR1;ADC1/JDR2;ADC1/JDR3;ADC1/JDR4;ADC1/AWD2CR;ADC1/AWD3CR;ADC1/DIFSEL;ADC1/CALFACT;ADC1/GCOMP;ADC12_Common/CSR;ADC12_Common/CCR;ADC12_Common/CDR;NVIC/ISER0;NVIC/ISER1;NVIC/ISER2;NVIC/ISER3;NVIC/ICER0;NVIC/ICER1;NVIC/ICER2;NVIC/ICER3;NVIC/ISPR0;NVIC/ISPR1;NVIC/ISPR2;NVIC/ISPR3;NVIC/ICPR0;NVIC/ICPR1;NVIC/ICPR2;NVIC/ICPR3;NVIC/IABR0;NVIC/IABR1;NVIC/IABR2;NVIC/IABR3;NVIC/IPR0;NVIC/IPR1;NVIC/IPR2;NVIC/IPR3;NVIC/IPR4;NVIC/IPR5;NVIC/IPR6;NVIC/IPR7;NVIC/IPR8;NVIC/IPR9;NVIC/IPR10;NVIC/IPR11;NVIC/IPR12;NVIC/IPR13;NVIC/IPR14;NVIC/IPR15;NVIC/IPR16;NVIC/IPR17;NVIC/IPR18;NVIC/IPR19;NVIC/IPR20;NVIC/IPR21;NVIC/IPR22;NVIC/IPR23;NVIC/IPR24;NVIC/IPR25;SCB/CPUID;SCB/ICSR;SCB/VTOR;SCB/AIRCR;SCB/SCR;SCB/CCR;SCB/SHPR1;SCB/SHPR2;SCB/SHPR3;SCB/SHCSR;SCB/CFSR_UFSR_BFSR_MMFSR;SCB/HFSR;SCB/MMFAR;SCB/BFAR;SCB/AFSR;TIM7/CR1;TIM7/CR2;TIM7/DIER;TIM7/SR;TIM7/EGR;TIM7/CNT;TIM7/PSC;TIM7/ARR;DMA1/ISR;DMA1/IFCR;DMA1/CCR1;DMA1/CCR2;DMA1/CCR3;DMA1/CCR4;DMA1/CCR5;DMA1/CCR6;DMA1/CCR7;DMA1/CCR8;DMA1/CNDTR1;DMA1/CNDTR2;DMA1/CNDTR3;DMA1/CNDTR4;DMA1/CNDTR5;DMA1/CNDTR6;DMA1/CNDTR7;DMA1/CNDTR8;DMA1/CPAR1;DMA1/CPAR2;DMA1/CPAR3;DMA1/CPAR4;DMA1/CPAR5;DMA1/CPAR6;DMA1/CPAR7;DMA1/CPAR8;DMA1/CMAR1;DMA1/CMAR2;DMA1/CMAR3;DMA1/CMAR4;DMA1/CMAR5;DMA1/CMAR6;DMA1/CMAR7;DMA1/CMAR8" binaryNodes="" asciiNodes="" openNodes="TIM1/DMAR;ADC2;ADC2/SQR1;ADC2/DR;OPAMP/OPAMP2_CSR;ADC1;ADC1/TR2;SCB/ICSR;DMA1;DMA1/ISR" name="G431CBU6-esc" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6-esc" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6-esc" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="G431CBU6-esc" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" path="main.c" left="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="72" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/main.c" path="main.h" left="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="127" useTextEdit="1" path="STM32G4xx/Source/STM32G4xx_Startup.s" left="0" top="121" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="17" y="151" useTextEdit="1" path="STM32G4xx_Flash.icf" left="0" top="112" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="88" y="5" useTextEdit="1" path="STM32G431CBUx_MemoryMap.xml" left="25" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="81" y="5960" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/main.c" path="STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_adc.h" left="19" top="5938" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="2156" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/stm32g4xx_it.c" path="STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_dma.h" left="0" top="2145" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="88" useTextEdit="1" path="stm32g4xx_it.c" left="0" top="76" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="37" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/utils.h" path="STM32G4xx/CMSIS/Device/Include/stm32g4xx.h" left="0" top="25" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="1234" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_adc.h" path="STM32G4xx/CMSIS/Device/Include/stm32g431xx.h" left="0" top="1213" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="4622" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/main.c" path="STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_tim.h" left="0" top="4600" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="17" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/main.c" path="control/pi.c" left="0" top="2" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="71" useTextEdit="1" path="control/pi.h" left="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="63" useTextEdit="1" path="utils.c" left="0" top="25" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="47" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/foc/foc.c" path="utils.h" left="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="242" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/main.c" path="STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_bus.h" left="0" top="227" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="53" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/utils.h" path="STM32G4xx/STM32G4XX_LL_Drivers/Inc/stm32g4xx_ll_cordic.h" left="0" top="38" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="61" y="35" useTextEdit="1" path="foc/clarke.c" left="0" top="1" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="32" useTextEdit="1" openedFrom="C:/Users/goldf/OneDrive/pc-sync/SEGGER Embedded Studio for ARM Projects/G431CBU6/stm32g4xx_it.c" path="foc/clarke.h" left="0" top="8" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="28" useTextEdit="1" path="foc/park.h" left="0" top="5" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="foc/svgen.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="51" useTextEdit="1" path="foc/svgen.h" left="0" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="144" useTextEdit="1" path="foc/foc.c" left="0" top="132" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="21" useTextEdit="1" path="foc/foc.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" path="hw_conf.h" left="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="66" useTextEdit="1" path="datatypes.h" left="1" selected="1" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="181" useTextEdit="1" path="STM32G4xx/STM32G4XX_LL_Drivers/Src/stm32g4xx_ll_utils.c" left="0" top="173" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="450" useTextEdit="1" path="RTT/SEGGER_RTT_printf.c" left="0" top="439" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="83" y="374" useTextEdit="1" path="RTT/SEGGER_RTT.h" left="0" top="340" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="168" useTextEdit="1" path="STM32G4xx/STM32G4XX_LL_Drivers/Src/stm32g4xx_ll_gpio.c" left="0" top="157" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="G431CBU6-esc" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

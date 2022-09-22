@@ -1,0 +1,15 @@
+Output/Debug/Obj/G431CBU6/system_stm32g4xx.o: \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\STM32G4xx\CMSIS\Device\Source\system_stm32g4xx.c \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\STM32G4xx\CMSIS\Device\Include\stm32g4xx.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\STM32G4xx\CMSIS\Device\Include\stm32g431xx.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\CMSIS_5\CMSIS\Core\Include\core_cm4.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68\segger-rtl\include\stdint.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68\segger-rtl\include\__SEGGER_RTL.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68\segger-rtl\include\__SEGGER_RTL_ConfDefaults.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68\segger-rtl\include\__SEGGER_RTL_Conf.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68\segger-rtl\include\__SEGGER_RTL_Arm_Conf.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\CMSIS_5\CMSIS\Core\Include\cmsis_version.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\CMSIS_5\CMSIS\Core\Include\cmsis_compiler.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\CMSIS_5\CMSIS\Core\Include\cmsis_gcc.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\CMSIS_5\CMSIS\Core\Include\mpu_armv7.h \
+  C:\Users\goldf\Documents\SEGGER\ Embedded\ Studio\ for\ ARM\ Projects\G431CBU6\STM32G4xx\CMSIS\Device\Include\system_stm32g4xx.h
